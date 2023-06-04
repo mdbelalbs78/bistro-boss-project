@@ -9,7 +9,7 @@ import Featured from "./Featured/Featured";
 const Home = () => {
     return (
         <div>
-            <Helmet>
+        <Helmet>
         <title>Bistro Boss | Home</title>
       </Helmet>
             <Banner></Banner>
